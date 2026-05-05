@@ -1,7 +1,7 @@
 # I`m 111vkg1
 ## 💻 Programm on:
 * C++
-* JAVA
+* Java
 * Kotlin
 * JavaScript/TypeScript
 
