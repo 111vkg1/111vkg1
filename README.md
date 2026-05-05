@@ -6,7 +6,7 @@
 * JavaScript/TypeScript
 
 
-### ⌛ Have been programming since 2022
+##### ⌛ Have been programming since 2022
 📃 Completed MIPT course on C++ fundamentals and competitive programming
 
 
@@ -21,7 +21,7 @@
 
 
 
-#### ✉️ Contacts (ru🇷🇺, de🇩🇪, en🇺🇸):
+##### ✉️ Contacts (ru🇷🇺, de🇩🇪, en🇺🇸):
 - Email - 111vkg1@gmail.com
 - Discord - @111vkg1
 - Telegram - @OF_111vkg1
