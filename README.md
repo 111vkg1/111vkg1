@@ -1,9 +1,10 @@
 # I`m 111vkg1
-## 💻 Programm on:
+## 💻 Know:
 * C++
 * Java
 * Kotlin
 * JavaScript/TypeScript
+* PostgeSQL
 
 
 ##### ⌛ Have been programming since 2022
