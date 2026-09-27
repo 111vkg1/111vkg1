@@ -1,32 +1,20 @@
-# I`m 111vkg1
-## 💻 Know:
-* C++
-* Java
-* Kotlin
-* JavaScript/TypeScript
-* PostgeSQL
+<h1 align="center">I'm 111vkg1</h1>
+<h3 align="center">C++ and Rust developer</h3>
 
+- 📌 Now working on [libguionsdl2 (GOS2)](https://github.com/111vkg1/libguionsdl2)
 
-##### ⌛ Have been programming since 2022
-📃 Completed MIPT course on C++ fundamentals and competitive programming
+- 📈 I`m currently learning **Rust, C++, Java, SDL2/3**
 
+- 📄 School project [Ray Casting](https://github.com/111vkg1/RayCasting)
 
-## 📌 Most liked:
-* Make C++ utils with SDL
-* Make android apps on Kotlin
+- 📫 How to reach me **111vkg1@gmail.com**
 
-## 📈 Now working on:
-* GUI header-library for SDL2 and SDL3
-* 2D game engine for sandbox games
+- 📄 I have [Completed MIPT course on C++ fundamentals and competitive programming](Completed MIPT course on C++ fundamentals and competitive programming)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-
-##### ✉️ Contacts (ru🇷🇺, de🇩🇪, en🇺🇸):
-- Email - 111vkg1@gmail.com
-- Discord - @111vkg1
-- Telegram - @OF_111vkg1
-<!---
-111vkg1/111vkg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
